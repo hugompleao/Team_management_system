@@ -1,0 +1,6 @@
+.vscode/
+*.exe
+*.zip
+*.obj
+*.o
+tempCodeRunnerFile.c
